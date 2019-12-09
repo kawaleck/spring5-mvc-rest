@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
 import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.when;
 
-public class CategoryServiceTest {
+public class CategoryServiceImplTest {
 
     public static final Long ID = 2L;
     public static final String NAME = "Jimmy";
